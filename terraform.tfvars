@@ -1,1 +1,1 @@
-bucket_name = "terraform-learning-bucket"
+bucket_name = "barkha-terraform-learning-bucket-2024-06-27"
